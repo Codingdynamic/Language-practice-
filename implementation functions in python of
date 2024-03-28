@@ -1,0 +1,19 @@
+#zfill
+str = '6'
+print(str.zfill(10))
+#lower
+str = 'SoWmYa'
+print(str.lower())
+#upper
+str = 'SoWmYa'
+print(str.upper())
+#max
+str='sowmya'
+print(max(str))
+#replace
+str = 'hi hi hi'
+print(str.replace('hi','hello'))
+#ord(char ascii num)
+print(ord('r'))
+#chr(asci value)
+print(chr(122))
